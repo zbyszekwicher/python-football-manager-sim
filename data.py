@@ -1,7 +1,8 @@
 from random import randrange
 import os
 import sys
-path = os.path.dirname(sys.argv[0])
+#path = os.path.dirname(sys.argv[0])
+path = os.path.dirname(os.path.abspath(__file__))
 
 def GetTeamPower():
     d = []
@@ -71,7 +72,8 @@ def GetName(player):
 
 
 def IsFile(name):
-    dataPath = path + '\\saves\\' + name
+    #dataPath = path + '\\saves\\' + name
+    dataPath = os.path.join(path, 'saves', name)
 
     if os.path.exists(dataPath):
         return True
@@ -79,7 +81,8 @@ def IsFile(name):
         return False
 
 def ExportData():
-    dataPath = path + '\\saves\\' + clubName
+    #dataPath = path + '\\saves\\' + clubName
+    dataPath = os.path.join(path, 'saves', clubName)
     
     file = open(dataPath, 'w')
     
@@ -215,7 +218,8 @@ def ImportData():
     global hallOfFame
     global PlayersOfAllTheTime
 
-    dataPath = path + '\\saves\\' + clubName
+    #dataPath = path + '\\saves\\' + clubName
+    dataPath = os.path.join(path, 'saves', clubName)
     data = []
     try:
         file = open(dataPath)

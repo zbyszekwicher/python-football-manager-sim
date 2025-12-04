@@ -1,0 +1,27 @@
+user1
+London Hienas
+281
+['Bradford City', 4.0];['Carlisle United', 3.2];['Cambridge United', 3.4];['Cheltenham Town', 4.4];['Colchester United', 4.2];['Crawley Town', 3.6];['Crewe Alexandra', 4.6];['Exeter City', 4.3];['Forest Green Rovers', 3.9];['Grimsby Town', 3.5];['Leyton Orient', 3.3];['Macclesfield Town', 2.9];['Mansfield Town', 3.0];['Morecambe', 2.9];['Newport County', 3.6];['Northampton Town', 4.1];['Oldham Athletic', 3.1];['Plymouth Argyle', 4.5];['Port Vale', 4.1];['Salford City', 3.8];['Scunthorpe United', 3.0];['Stevenage', 2.8];['Walsall', 3.7];['Barrow', 2.5];
+1
+['Carlisle United', 3.2];['Leyton Orient', 3.3];['Crewe Alexandra', 4.6];['Salford City', 3.8];['Cheltenham Town', 4.4];['Northampton Town', 4.1];['Exeter City', 4.3];['Cambridge United', 3.4];['Walsall', 3.7];['Bradford City', 4.0];['Colchester United', 4.2];['Morecambe', 2.9];['Crawley Town', 3.6];['Scunthorpe United', 3.0];['Forest Green Rovers', 3.9];['Macclesfield Town', 2.9];['Plymouth Argyle', 4.5];['Oldham Athletic', 3.1];['Barrow', 2.5];['Mansfield Town', 3.0];['Stevenage', 2.8];['Newport County', 3.6];['Grimsby Town', 3.5];['Port Vale', 4.1];
+0
+0
+0
+0
+0
+1
+3,Colman,Piper,GKP,34,  972,England,10,162,0,0,;1,Marco,Goyette,GKP,24,  185,French,10,25,0,0,;3,Jürgen,Hanisch,DEF,16, 1469,German,10,0,0,0,;3,Mateusz,Adamczyk,DEF,21, 1890,Poland,10,35,0,3,;3,Candide,Petit,DEF,31, 1782,French,10,154,8,24,;3,Spencer,Seals,DEF,21, 1758,England,10,40,1,5,;3,Enzo,Aglio,DEF,18, 1750,Italian,10,16,1,1,;3,Brock,Tyndall,DEF,18, 1555,England,10,0,0,0,;2,Taddeo,Fontana,DEF,20,  727,Italian,10,24,3,4,;2,Hans,Wöhler,DEF,27, 1027,German,10,44,4,6,;2,Clare,Layton,DEF,19,  806,England,10,12,0,1,;3,Cleve,Gibbon,MID,24, 2236,England,10,103,24,24,;3,Kimble,Waugh,MID,30, 1841,England,10,156,19,30,;3,Jason,Saxon,MID,20, 1962,England,10,53,5,14,;3,Luca,Cabrini,MID,22, 1841,Italian,10,87,7,11,;2,Roger,Geddes,MID,22,  874,England,10,71,12,4,;2,Claude,Edwin,MID,28,  940,England,10,115,25,23,;2,Frank,Harrer,MID,23,  806,German,10,97,13,11,;2,Lyle,Worrall,MID,18,  684,England,10,5,0,0,;2,Isidoro,Vittori,MID,20,  824,Italian,10,44,4,5,;4,Lyle,Hooley,ATK,17, 4534,England,10,0,0,0,;3,Paata,Kavatadze,ATK,28, 2052,Georgia,10,131,67,35,;3,Gabriel,Vizard,ATK,17, 1545,French,10,21,11,6,;2,Waldo,Wick,ATK,17,  466,England,10,0,0,0,;2,Romano,Marchio,ATK,28,  950,Italian,10,30,11,7,;
+3,Colman,Piper,GKP,34,  972,England,10,162,0,0,;
+3,Brock,Tyndall,DEF,18, 1555,England,10,0,0,0,;3,Enzo,Aglio,DEF,18, 1750,Italian,10,16,1,1,;3,Spencer,Seals,DEF,21, 1758,England,10,40,1,5,;3,Candide,Petit,DEF,31, 1782,French,10,154,8,24,;3,Mateusz,Adamczyk,DEF,21, 1890,Poland,10,35,0,3,;
+3,Luca,Cabrini,MID,22, 1841,Italian,10,87,7,11,;3,Jason,Saxon,MID,20, 1962,England,10,53,5,14,;3,Kimble,Waugh,MID,30, 1841,England,10,156,19,30,;
+4,Lyle,Hooley,ATK,17, 4534,England,10,0,0,0,;3,Gabriel,Vizard,ATK,17, 1545,French,10,21,11,6,;
+League Two
+[5, 3, 2]
+2000
+12
+12
+;0;;;;
+
+2030
+National League-3place in2023season;National League-2place in2024season;National League-1place in2027season;
+Robbie Jupp    	- Position: GKP		played: 0	scored: 0	assists: 0,0,;Chance Gooding 	- Position: MID		played: 0	scored: 0	assists: 0,0,;Robert Gaskin  	- Position: ATK		played: 0	scored: 0	assists: 0,0,;Chas Eddy      	- Position: MID		played: 0	scored: 0	assists: 0,0,;Osbert Lowitt  	- Position: ATK		played: 3	scored: 1	assists: 1,3,;Dobie Bostick  	- Position: DEF		played: 6	scored: 0	assists: 1,6,;Jackson Graeme 	- Position: ATK		played: 19	scored: 5	assists: 2,19,;Peter Ashdown  	- Position: GKP		played: 4	scored: 0	assists: 0,4,;Tobias Kells   	- Position: DEF		played: 19	scored: 0	assists: 5,19,;Chet Lister    	- Position: ATK		played: 57	scored: 36	assists: 17,57,;Gordon Strozzi 	- Position: DEF		played: 7	scored: 0	assists: 2,7,;Alfred Tucker  	- Position: DEF		played: 17	scored: 2	assists: 3,17,;Eadwulf Hardy  	- Position: DEF		played: 72	scored: 4	assists: 8,72,;Adrian Spooner 	- Position: ATK		played: 13	scored: 3	assists: 0,13,;Shaun Holland  	- Position: MID		played: 22	scored: 6	assists: 0,22,;Makoto Aozora  	- Position: MID		played: 20	scored: 2	assists: 5,20,;Eun Jin Woo    	- Position: ATK		played: 27	scored: 6	assists: 6,27,;Hugh Nicholl   	- Position: MID		played: 20	scored: 1	assists: 1,20,;Chris Knight   	- Position: MID		played: 0	scored: 0	assists: 0,0,;Humberto Fajarado	- Position: MID		played: 27	scored: 5	assists: 8,27,;Gale Aaron     	- Position: MID		played: 0	scored: 0	assists: 0,0,;Jesse Muller   	- Position: ATK		played: 14	scored: 12	assists: 2,14,;Duncan Watkins 	- Position: DEF		played: 75	scored: 6	assists: 14,75,;Mirko Mittag   	- Position: DEF		played: 12	scored: 2	assists: 2,12,;Corrado Crespi 	- Position: DEF		played: 51	scored: 1	assists: 4,51,;Skyler Mason   	- Position: DEF		played: 29	scored: 4	assists: 3,29,;Curtis Chinn   	- Position: DEF		played: 1	scored: 0	assists: 0,1,;Luis Vega      	- Position: DEF		played: 44	scored: 6	assists: 5,44,;Fredrik Amundsen	- Position: MID		played: 115	scored: 20	assists: 30,115,;Ashley Downing 	- Position: MID		played: 0	scored: 0	assists: 0,0,;Peter Guthrie  	- Position: DEF		played: 0	scored: 0	assists: 0,0,;Julian Gil     	- Position: ATK		played: 10	scored: 2	assists: 2,10,;Jimmy Keach    	- Position: MID		played: 0	scored: 0	assists: 0,0,;Blake Dingley  	- Position: ATK		played: 3	scored: 0	assists: 0,3,;

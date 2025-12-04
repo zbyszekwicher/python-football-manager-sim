@@ -50,6 +50,8 @@ This is a functional legacy project presented "as is" to showcase system design,
 
 \*\*However, I did not encounter any crashes or bugs, and the game is fully functional.\*\*
 
+Yet, I cannot guarantee that it will never crash; fortunately the saves are very frequent.
+
 Language Note: As a non-native English speaker, the primary focus during development was on logic and system functionality. Minor spelling or grammatical errors may be present in the game's text.
 
 
@@ -77,4 +79,10 @@ Language Note: As a non-native English speaker, the primary focus during develop
 &nbsp;   python \_FFManager\_app.py
 
 &nbsp;   ```
+
+
+
+Note: The game comes with a sample save file. It is called London Hienas by user1, and you can load it on game startup. Or you can start from scratch by typing any new nickname and new club name when prompted to create a fresh profile and begin in the National League (right before the transfer window).
+
+
 
