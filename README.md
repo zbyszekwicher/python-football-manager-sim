@@ -2,7 +2,7 @@
 
 
 
-A large-scale, text-based simulation of managing the full lifecycle of a professional football (soccer) club. The project containing 26 files (modules) models complex economic, athletic, and personnel management systems. Developed in Python as a hobby project from 2020 to 2022.
+A large-scale, text-based simulation of managing the full lifecycle of a professional football (soccer) club. The project containing 25 files (modules) models complex economic, athletic, and personnel management systems. Developed in Python as a hobby project from 2020 to 2022.
 
 
 
